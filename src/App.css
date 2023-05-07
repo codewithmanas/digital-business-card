@@ -1,0 +1,17 @@
+:root {
+  --btn-color: #E2E2E2;
+  --body-color: #292b31;
+  --footer-color: #232427;
+}
+
+body {
+  font-family: Inter, sans-serif;
+}
+
+.app {
+  background-color: var(--body-color);
+  color: #ffffffee;
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}

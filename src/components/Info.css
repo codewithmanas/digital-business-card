@@ -1,0 +1,48 @@
+.info__img {
+    width: 300px;
+}
+
+.info__email {
+    padding: 6px 12px;
+    background-color: #fff;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    color: #1A1B21;
+    margin-right: 20px;
+}
+
+.info__linkedin {
+    padding: 6px 12px;
+    background-color: #0A66C2;
+    border-radius: 6px;
+    outline: none;
+    border: none;
+    color: #fff;
+}
+
+.info__website {
+    font-weight: 400;
+    font-size: 12px;
+    margin-top: 4px;
+    margin-bottom: 10px;
+} 
+
+.info__role {
+    font-weight: 500;
+    font-size: medium;
+    color: #d1692d;
+    margin-top: 4px;
+    margin-bottom: 4px;
+}
+
+.info__btn {
+    margin-top: 20px;
+}
+
+.info__title {
+    margin-bottom: 20px;
+}
+
+
+
